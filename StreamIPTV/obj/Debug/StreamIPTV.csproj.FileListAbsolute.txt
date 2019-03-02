@@ -1,0 +1,60 @@
+C:\Users\Alexandra\Desktop\StreamIPTV\bin\Debug\StreamIPTV.exe.config
+C:\Users\Alexandra\Desktop\StreamIPTV\bin\Debug\StreamIPTV.exe
+C:\Users\Alexandra\Desktop\StreamIPTV\bin\Debug\StreamIPTV.pdb
+C:\Users\Alexandra\Desktop\StreamIPTV\bin\Debug\EntityFramework.dll
+C:\Users\Alexandra\Desktop\StreamIPTV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexandra\Desktop\StreamIPTV\bin\Debug\System.Data.SQLite.dll
+C:\Users\Alexandra\Desktop\StreamIPTV\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Alexandra\Desktop\StreamIPTV\bin\Debug\EntityFramework.xml
+C:\Users\Alexandra\Desktop\StreamIPTV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexandra\Desktop\StreamIPTV\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alexandra\Desktop\StreamIPTV\obj\Debug\StreamIPTV.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\StreamIPTV\obj\Debug\StreamIPTV.JanelaSplash.resources
+C:\Users\Alexandra\Desktop\StreamIPTV\obj\Debug\StreamIPTV.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\StreamIPTV\obj\Debug\StreamIPTV.exe
+C:\Users\Alexandra\Desktop\StreamIPTV\obj\Debug\StreamIPTV.pdb
+C:\Users\Alexandra\Desktop\StreamIPTV\obj\Debug\StreamIPTV.JanelaInicial.resources
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\bin\Debug\StreamIPTV.exe.config
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\bin\Debug\StreamIPTV.exe
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\bin\Debug\StreamIPTV.pdb
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\bin\Debug\EntityFramework.dll
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\bin\Debug\System.Data.SQLite.dll
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\bin\Debug\EntityFramework.xml
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaInicial.resources
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaSplash.resources
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.exe
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.pdb
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaLogin.resources
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaCanais.resources
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaSobre.resources
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaUsuarios.resources
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaUsuario.resources
+C:\Users\Alexandra\Desktop\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaCanal.resources
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\bin\Debug\StreamIPTV.exe.config
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\bin\Debug\StreamIPTV.exe
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\bin\Debug\StreamIPTV.pdb
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\bin\Debug\EntityFramework.dll
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\bin\Debug\System.Data.SQLite.dll
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\bin\Debug\EntityFramework.xml
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaCanais.resources
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaCanal.resources
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaInicial.resources
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaSobre.resources
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaLogin.resources
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaSplash.resources
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaUsuario.resources
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.JanelaUsuarios.resources
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.csproj.GenerateResource.Cache
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.exe
+C:\Users\Alexandra\OneDrive\Universidades\IST\Tecnologia da Informação & Comunicação\2017\1º Semestre\Programação em Ambiente Visual\StreamIPTV\StreamIPTV\obj\Debug\StreamIPTV.pdb
